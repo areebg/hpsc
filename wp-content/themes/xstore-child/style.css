@@ -1,0 +1,20 @@
+/*
+ Theme Name:   XStore Child
+ Theme URI:    http://8theme.com/
+ Description:  XStore Child Theme
+ Author:       8theme
+ Author URI:   http://8theme.com
+ Template:     xstore
+ Version:      0.0.1
+ Text Domain:  xstore-child
+*/
+
+#header.site-header {
+	margin-top: 15px;
+} 
+#header.site-header .header-main-wrapper {
+	margin-top: -55px;
+}
+.et_b_header-cart.et_element-top-level>a:hover {
+    background-color: #572968 !important;
+}
